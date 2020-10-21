@@ -1,0 +1,33 @@
+button {
+    color: brown;
+    background-color: blue;
+}
+
+/*Selektor Znacznika*/
+
+p{
+    color: green;
+    background-color: paleturquoise;
+}
+
+/*Selektor id*/
+
+#container {
+    background-color: red;
+}
+
+#name {
+    color: yellow;
+    background-color: blue;
+}
+
+#surname {
+    color: pink;
+    background-color: green;
+}
+
+#phone {
+    color: white;
+    background-color: brown;
+}
+
